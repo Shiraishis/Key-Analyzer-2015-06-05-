@@ -16,18 +16,12 @@ namespace 키값정렬기
         static void Main(string[] args)
         {
             Console.Title = "키값 정렬기 (SLFCG 제작)";
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("배포금지!");
-            Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("개발자 네이트온: slfcg_dev@nate.com");
             Console.ResetColor();
             Console.Write("키값을 입력해주세요:\n");
             key = Console.ReadLine();
             Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("배포금지!");
-            Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("개발자 네이트온: slfcg_dev@nate.com");
             Console.ResetColor();
